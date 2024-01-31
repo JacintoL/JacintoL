@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JacintoL
+- 👋 Hi, I’m Jacinto
 - 👀 I’m passionate about cybersecurity and navigating the dynamic digital landscape.
 - 🌱 Currently enhancing my skills in cybersecurity to protect digital assets while pursuing a full-stack project and university studies.
 - 💞️ Open to collaborating on exciting cybersecurity projects and connecting with fellow professionals in the field.
