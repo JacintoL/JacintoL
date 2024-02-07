@@ -2,7 +2,7 @@
 - 👀 I’m passionate about cybersecurity, full-stack development, and constantly learning new things.
 - 🌱 Currently enhancing my skills in cybersecurity to protect digital assets, while also working on full-stack projects using technologies like PHP, MySQL, LARAVEL and more.
 - 💞️ Open to collaborating on exciting cybersecurity and full-stack projects, and connecting with fellow professionals in the field.
-- ⚡ Fun fact: I thrive on solving complex puzzles and staying abreast of the latest trends in technology.
+- ⚡ 
 
 <!---
 JacintoL/JacintoL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
