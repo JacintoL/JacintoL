@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jacinto
-- 👀 I’m passionate about cybersecurity, full-stack development, and constantly learning new things.
+- 👀 I’m passionate about cybersecurity and constantly learning new things.
 - 🌱 Currently enhancing my skills in cybersecurity to protect digital assets, while also working on full-stack projects using technologies like PHP, MySQL, LARAVEL and more.
 - 💞️ Open to collaborating on exciting cybersecurity and full-stack projects, and connecting with fellow professionals in the field.
 - ⚡ 
