@@ -2,7 +2,7 @@
 [![GitHub](https://img.shields.io/badge/-Github-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/JacintoL)](https://github.com/JacintoL) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jacinto-lopes/)](https://www.linkedin.com/in/jacinto-lopes/)
 
 ## 👨‍💻 Cybersecurity Projects:
-- [Active Directory Home Lab](https://github.com/JacintoL/LABURL)
+- [Active Directory Home Lab](https://github.com/JacintoL/ActiveDirectoryLab)
 - [Azure Sentinel (SIEM) Home Lab](https://github.com/JacintoL/LABURL)
 - [Vulnerability Management with Nessus Essentials Home Lab](https://github.com/JacintoL/LABURL)
 
