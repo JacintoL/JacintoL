@@ -7,6 +7,11 @@
 - [Vulnerability Management with Nessus Essentials Home Lab](https://github.com/JacintoL/Vulnerability-Management-with-Nessus-Essentials)
 - [EDR Home Lab: Attack and Defense](https://github.com/JacintoL/EDR-Home-Lab-Attack-and-Defense)
 
+## 🛠 Other Projects:
+- Project Name 1 - Breve descrição sobre o projeto.
+- Project Name 2 - Breve descrição sobre o projeto.
+- Project Name 3 - Breve descrição sobre o projeto.
+
 ## 📄 Certifications:
 - Cybersecurity Foundation Palo Alto Networks
 - Enterprise Security Management Student Certificate Palo Alto Networks
